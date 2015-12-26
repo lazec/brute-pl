@@ -1,0 +1,10 @@
+admin
+ad
+pass
+password
+administrador
+administrator
+contraseña
+123456
+user
+root
